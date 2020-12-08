@@ -34,7 +34,7 @@ Run enjoy_play_with_human.py to verify the performance of the trained model in h
 python enjoy_play.py
 ```
 
-## Result
+## Result(too big so I delete them)
 
 summaries\ppo_result is the tensorboard result of ppo in static human enviroment 
 
